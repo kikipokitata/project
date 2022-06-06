@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/resource"/>
+    <qresource prefix="/rec">
+        <file>Resources/Read.xml</file>
+        <file>Resources/Write.xml</file>
+        <file>Resources/end.jpg</file>
+        <file>Resources/lake1.jpg</file>
+        <file>Resources/lake2.jpg</file>
+        <file>Resources/lake3.jpg</file>
+        <file>Resources/lake4.jpg</file>
+        <file>Resources/road1.jpg</file>
+        <file>Resources/road2.jpg</file>
+        <file>Resources/road3.jpg</file>
+        <file>Resources/road4.jpg</file>
+        <file>Resources/start.jpg</file>
+        <file>Resources/swamp1.jpg</file>
+        <file>Resources/swamp2.jpg</file>
+        <file>Resources/swamp3.jpg</file>
+        <file>Resources/swamp4.jpg</file>
+        <file>Resources/wall1.jpg</file>
+        <file>Resources/wall2.jpg</file>
+        <file>Resources/wall3.jpg</file>
+    </qresource>
+</RCC>
